@@ -1,0 +1,5 @@
+ALL TALL We all are tall.
+ALL SMALL We all are small.
+ALL BALL We all play ball.
+BALL WALL Up on a wall.
+ALL FALL Fall off the wall.
